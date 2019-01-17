@@ -14,9 +14,9 @@ export class IngredienteComponent implements OnInit {
   }
 
 }
-export class Ingrediente{
+export class Ingrediente {
     id: 0;
-    Produto:null;
+    Produto: null;
     // materiaPrima
     valorEnergetico: 0;
     valorDiario: 0;

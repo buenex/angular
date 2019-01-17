@@ -10,6 +10,8 @@ import { ProdutoComponent } from './produto/produto.component';
 import { IngredienteComponent } from './ingrediente/ingrediente.component';
 
 
+
+
 @NgModule({
   declarations: [
     AppComponent,
